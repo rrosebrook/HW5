@@ -10,8 +10,10 @@ import java.io.File;
 import java.io.FileNotFoundException;
 
 /**
- *
- * @author Owner
+ * HW5 - Create a word counter for submitted text that will count the number of
+ * times each individual word shows up in a set text file.
+ * September 2017
+ * Rachel Rosebrook
  */
 public class HW5 {
     
@@ -52,6 +54,8 @@ public class HW5 {
         System.out.println(java.util.Arrays.toString(arr));
         
     }
+    
+    
     public static void main(String[] args) throws FileNotFoundException {
         // TODO code application logic here
         getTextFile();
