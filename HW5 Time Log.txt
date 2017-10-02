@@ -1,0 +1,8 @@
+Time Log -
+getTextFile();
+turnTextToArray();
+removeNonWords();
+changeToLowerCase();
+Creating these methods tooks 15 minutes.
+
+Realize I'm a little stuck - it mentions two lists several times and I've only created one.  Will I be manipulating both in the same way?    
